@@ -1,0 +1,6 @@
+C:\Users\Irenic\source\repos\testenc\testenc\bin\Debug\testenc.exe.config
+C:\Users\Irenic\source\repos\testenc\testenc\bin\Debug\testenc.exe
+C:\Users\Irenic\source\repos\testenc\testenc\bin\Debug\testenc.pdb
+C:\Users\Irenic\source\repos\testenc\testenc\obj\Debug\testenc.csproj.CoreCompileInputs.cache
+C:\Users\Irenic\source\repos\testenc\testenc\obj\Debug\testenc.exe
+C:\Users\Irenic\source\repos\testenc\testenc\obj\Debug\testenc.pdb
